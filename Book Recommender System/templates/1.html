@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book Recommender System</title>
+<!--Latest Complied and Minified Css-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<style>
+body {
+  margin: 0;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.navbar a.navbar-brand {
+  background-color: #04AA6D;
+  color: white;
+}
+.text-white1{
+    color: white;
+}
+.card-body{
+    background-color: black;
+}
+.card{
+    border: none;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a class="navbar-brand">My Recommender Book </a>
+  <a class="nav navbar-nav">Home</a>
+  <a class="nav navbar-nav">Recommend</a>
+  <a class="nav navbar-nav">Contact</a>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-white">Top 50 Books</h1>
+        </div>
+        {% for i range(book_name|length) %}
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <img src="http://images.amazon.com/images/P/0439136350.01.MZZZZZZZ.jpg" class="card-img-top">
+                    <h2 class="text-white1">Harry Potter</h2>
+                    <p class="text-white1">J.K Rowling</p>
+                    <p class="text-white1">Votes</p>
+                    <p class="text-white1">Rating: 5.6</p>
+                </div>
+            </div>
+        </div>
+        {% end for %}
+    </div>
+  </div>
+</body>
+</html>
