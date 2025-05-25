@@ -6,6 +6,7 @@ import requests
 movies_dict = pickle.load(open('movie.pkl', 'rb'))
 movies = pd.DataFrame(movies_dict)
 
+# This pkl was in GB so you have to generate it again from collaborative recommeder system .ipynb file
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 
