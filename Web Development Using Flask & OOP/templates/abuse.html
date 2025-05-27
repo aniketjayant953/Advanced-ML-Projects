@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+  <form action="/perform_abuse" method="post">
+    <label> Type your Text here</label><br>
+    <textarea name="abusive_text"></textarea><br>
+    <input type="submit" value="Perform">
+
+  </form>
+
+
+   {% if message %}
+        {% for i in message:%}
+                <p style="color:green">{{ i[0], ' -> ' ,i[1] }}</p>
+        {% endfor %}
+    {% endif %}
+
+</body>
+</html>
