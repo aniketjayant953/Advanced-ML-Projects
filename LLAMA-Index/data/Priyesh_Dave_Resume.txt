@@ -1,0 +1,92 @@
++91-8889181232
+Indore, Madhya Pradesh
+priyeshdave90@gmail.com
+Priyesh Dave
+Data Scientist
+GitHub: PriyeshDave
+PriyeshDave.github.io
+LinkedIn: priyeshdave21
+Data Science professional with 4 years of experience around Machine Learning, Natural Language Processing, Deep Learning,
+Predictive Modeling, and Statistical Analysis. Ambitious to accelerate career with a well-recognized organization that will give me
+exposure to Solve Complex Business Problems e˘ectively with my Data Science skills and knowledge.
+Skills
+Programming Languages
+Python, Java, SQL
+Libraries / Frameworks
+Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Keras, Gensim, NLTK, Streamlit , SpaCy, HuggingFace
+Databases / Platforms
+PostgreSQL, DB2, Microso˙ SQL Ser ver, MySQL, Heroku, Git , Postman, AWS SageMaker
+Key Skills
+Machine Learning, Deep Learning, NLP, Statistical Analysis, Predictive Modelling, Spring, Microser vices.
+Technical Experience
+Data Scientist
+Oct 2018 Present
+Tata Consultanc y Ser vices
+Mumbai, Maharashtra
+‹
+Working with exceptional Westpac team to build cutting-edge ML/AI solutions of banking suits.
+‹
+Responsible for building Machine Learning model for payments systems that identi˝es the customers with abusive comments in
+payments systems.
+‹
+Use data analyses and statistical techniques to de velop solutions to improve customer experience and to guide business
+decision making.
+‹
+De veloping end-to -end data analytics pipeline from data exploration, visualization, feature extraction, machine learning, to data
+presentation for end users.
+‹
+Interacting with middle / senior le vel client executives on regular requirements and presenting insights.
+‹
+Redesigned Westpac's Data Masking application by using custom Named Entity Recognition (NLP) which detects and masks the
+con˝dential user information from the production logs.
+‹
+Implemented FraudPay model to detect the fraudulent payments search used by Westpac's WDP environment .
+Machine Learning Engineer Lead Feb 2022 Present
+Omdena
+India
+‹
+Open source Outreach and working team member at
+Omdena
+, a collaborative platform to build innovative, ethical, and e˘icient
+AI and Data Science solutions to real-world problems.
+‹
+Leading the data analysis team, and deriving data insights from labeled data to drive product and optimizing the algorithms for
+redacting the con˝dential data in the ˝le.
+‹
+Responsible for building a custom NER model using SpaCy and training pipeline which includes building REST API's using Flask
+for data preprocessing, model training and prediction tasks.
+‹
+Built a Global Company Sustainability Benchmarking System for Sustain Lab based in Sweden.
+‹
+The result of this project , which is related to text mining and text analysis of annual sustainability reports that companies publish
+globally.
+Education
+Bachelor of Engineering in Information Technolog y
+,
+Medi-Caps Institute Of Science & Technology
+Aug 2014 - April 2018
+‹
+Graduated with 8.55 CGPA.
+Indore, Madhya Pradesh
+A chievements
+‹
+Recognized and appreciated for delivering e˘icient solutions and awarded by Performing Award by
+Westpac
+.
+‹
+Department Rank 1 in B.E 3rd and 4th year.
+‹
+Selected in top 300 among 15,000 applicants for
+Bertelsmann Technolog y UDACITY MACHINE LEARNING SCHOLARSHIP
+across
+world,and learnt Machine Learning.
+A cademic Projects
+Intent Matching
+| Python, NLP, Word2Vec, LSTM |
+GitHub
+De veloped a hybrid model to predict intent of two questions based on generating a context-rich text feature vector by combining
+single words and word sequences to form a multi-dimensional word embedding structure using Word2Vec model.
+Deep Learning for Auto Text Generation
+| Python, LSTM, Streamlit , Heroku |
+GitHub
+Derived a sequence -to -sequence model using LSTM model for generation of next words based on Markov's assumption rule.
